@@ -1,4 +1,4 @@
-"# amazing-app" 
+# amazing-app
 
 Hey, you need OpenCV to run this.
 
